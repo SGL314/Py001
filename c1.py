@@ -1,7 +1,4 @@
-import pyautogui
-
-
-print("Ola")
+print("b001")
 
 
 

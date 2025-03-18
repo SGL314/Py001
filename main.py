@@ -1,2 +1,1 @@
-
-print("aba")
+print("b001")
