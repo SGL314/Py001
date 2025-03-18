@@ -1,0 +1,5 @@
+COMANDOS VS : 
+    terminal : ctrl+j
+    aba do lado esquerdo : ctrl+b
+    settings : ctrl+,
+    pull line : ctrl+[
