@@ -1,1 +1,1 @@
-print("pai")
+print("main")
