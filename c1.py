@@ -1,0 +1,25 @@
+import pyautogui
+
+
+
+print("Ola")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
