@@ -1,7 +1,6 @@
 import pyautogui
 
 
-
 print("Ola")
 
 
