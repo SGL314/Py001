@@ -1,0 +1,9 @@
+sleep 1
+print "I'm starting"
+sleep 1
+print "Waiting you move your mouse on a position for me write something there..."
+discount 5
+copy "texto copiado"
+paste 0
+sleep 2
+moveTo 450 450
